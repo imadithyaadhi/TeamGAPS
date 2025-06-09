@@ -1,0 +1,18 @@
+Invoice Number: INV-2025-001
+Date: June 9, 2025
+
+Bill To:
+John Doe
+Company XYZ
+123 Business Street, City, Country
+
+Itemized List:
+1. Web Development Services - $500
+2. Domain Registration - $20
+3. Hosting Plan - $100
+
+Total Amount Due: $620
+Due Date: June 15, 2025
+Payment Method: Bank Transfer
+
+Thank you for your business!
